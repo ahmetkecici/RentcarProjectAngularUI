@@ -1,0 +1,8 @@
+export interface CustomerDetailModel{
+  customerId:number,
+  firstName:string,
+  lastName:string,
+  email:string,
+  companyName:string,
+ 
+  }
